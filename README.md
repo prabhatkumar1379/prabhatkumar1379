@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is prabhat kumar
 =====================================================================================================================================
 
-I am a.net developer and react js
+I am a.net developer(azure) with react js
 -------------------------
 
-* 🧠  I'm learning .net core, react js
+* 🧠  I'm diving deep into .net and API, react js
 * 🤝  I'm open to collaborating on .net core and react js
 
 ### Skills
