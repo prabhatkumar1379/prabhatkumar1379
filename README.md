@@ -6,7 +6,6 @@ I am a.net developer(azure) with react js
 
 * 🧠  I'm diving deep into .net and API, react js
 * 🤝  I'm open to collaborating on .net core and react js
-
 ### Skills
 
 
